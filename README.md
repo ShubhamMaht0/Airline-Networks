@@ -1,5 +1,5 @@
 # Airline-Networks
-## Setuo GTK: https://www.gtk.org/docs/installations/windows/
+## Setup GTK: https://www.gtk.org/docs/installations/windows/
 
 ![Screenshot 2024-04-09 002402](https://github.com/ShubhamMaht0/Airline-Networks/assets/85242150/c9006dc9-1c8c-4de0-90f9-0e3888eed3c6)
 
