@@ -1,0 +1,13 @@
+13
+Goa Jamshedpur
+Delhi Mumbai
+Mumbai Chennai
+Chennai Kolkata
+Patna Bangalore
+Bangalore Hyderabad
+Hyderabad Delhi
+Mumbai Bangalore
+Chennai Hyderabad
+Bangalore Ranchi
+Ranchi Kolkata
+Kolkata Goa
